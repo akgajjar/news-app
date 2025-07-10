@@ -1,0 +1,47 @@
+
+{
+    "status": "ok",
+    "url": "https://newsapi.org/v2/top-headlines?apiKey=4dc806e784a94c53b38c090b4671d9ae&q=cricket",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Heath Parkes-Hupton, Vanessa Brown, Shireen Khalil",
+            "title": "High-flying Aussie lawyer dies in Thailand",
+            "description": "A high-flying Australian lawyer was found dead at a Thai massage parlour this week near where cricket legend Shane Warne died.",
+            "url": "https://www.news.com.au/travel/travel-updates/incidents/highflying-australian-lawyer-dies-in-thailand/news-story/00a8f2ee6f2bdd6285df43bc9c1da38c",
+            "urlToImage": "https://content.api.news/v3/images/bin/9305755fe7fa2d4d8d72af0136cfea60",
+            "publishedAt": "2025-07-09T02:36:00Z",
+            "content": "A high-flying Australian lawyer was found dead at a Thai massage parlour this week near where cricket legend Shane Warne died.\r\nChristopher Saines, the chief executive of Brisbane firm GLG, died earl… [+1887 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
