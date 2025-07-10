@@ -44,16 +44,6 @@ export default class News extends Component {
     }
 
     handlePreClick = async () => {
-        // let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=4dc806e784a94c53b38c090b4671d9ae&page=${this.state.page - 1 }&pageSize=${this.state.pageSize}`;
-        // this.setState({isLoading: true, articles: []})
-        // let data = await fetch(url);
-        // let parsedData = await data.json();
-        // this.setState({
-        //     articles: parsedData.articles,
-        //     page: this.state.page - 1,
-        //     totalResults: parsedData.totalResults,
-        //     isLoading: false
-        // })
         this.setState({ page: this.state.page - 1 });
         this.updateNews();
     }
